@@ -188,6 +188,9 @@ a {
   padding-top: 94px;
   padding-bottom: 94px;
 }
+.title-hide {
+  display: none;
+}
 .features-list li {
   width: 270px;
 }
