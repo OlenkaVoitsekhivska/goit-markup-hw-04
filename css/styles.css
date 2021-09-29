@@ -530,9 +530,7 @@ a {
 .social-link:not(:last-child) {
   margin-right: 10px;
 }
-.footer {
-  display: flex;
-}
+
 .socials-list.footer {
   margin: 0;
   padding: 0;
