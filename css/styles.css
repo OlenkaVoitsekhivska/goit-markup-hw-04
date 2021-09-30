@@ -480,7 +480,7 @@ a {
 .contacts-item:focus > .icon-envelope,
 .contacts-item:hover > .icon-smartphone,
 .contacts-item:focus > .icon-smartphone {
-  stroke: var(--blue);
+  fill: var(--blue);
 }
 .rectangle {
   width: 270px;
